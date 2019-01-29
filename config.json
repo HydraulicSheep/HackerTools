@@ -1,0 +1,18 @@
+{
+    "toolbar_width_upper":50,
+    "toolbar_width_lower":10,
+    "upper_speed":300,
+    "lower_speed":0,
+    "task_list":[
+    "Configurating Environment Variables",
+    "Pinging DNS Server",
+    "Running Shell Scripts",
+    "Establishing SSH Crack",
+    "Parsing Rainbow Tables",
+    "Sending Client Keys",
+    "Finishing Up"
+    ],
+    "start_message":"Hacking Target",
+    "finish_message":"Completed!"
+
+}
